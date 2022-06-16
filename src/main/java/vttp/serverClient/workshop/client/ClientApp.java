@@ -1,10 +1,10 @@
-package vttp.serverClient.workshop;
+package vttp.serverClient.workshop.client;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class ClientApp 
 {
     public static void main( String[] args )
     {
